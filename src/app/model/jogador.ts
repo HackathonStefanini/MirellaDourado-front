@@ -1,4 +1,4 @@
-import { Stefamon } from "./Stefamon";
+import { Stefamon } from "./stefamon";
 
 export interface Jogador {
     id: number,

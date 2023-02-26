@@ -2,7 +2,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 
-import { Jogador } from 'src/app/model/Jogador';
+import { Jogador } from 'src/app/model/jogador';
 import { environment } from 'src/environments/environment';
 
 @Injectable({
